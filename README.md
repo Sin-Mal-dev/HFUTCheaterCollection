@@ -75,6 +75,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
     如有必要公开的信息将放入信息公开板块。
 **安全性声明**
     任意邮件投稿后均通过密匙保存在虚拟机中的Resilio Sync中并且清除本地邮箱信件数据，保证举报者的地址匿名性。
+    
 **信息公开**
     [收信：关于GitHub上合肥工业大学HFUTCheaterCollection的发布沟通](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/receive/1/1.md)
 # 最后的话
