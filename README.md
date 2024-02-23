@@ -13,7 +13,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
     对此情况已实名向教育部及安徽省教育厅致信，后续将陆续转发至39所985大学教务处负责人，如若发现我本人信息被泄漏直接起诉贵校。
 
     隐私声明：个人学号信息等来源均为学院官网公开资料及本人公开信息
-
+# 基本信息
 **管理学院**
 
 | 入学年份 | 姓名  | 专业  |
@@ -43,7 +43,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 2021 | [夏怀琪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(9).md) | 计算机科学与技术 |
 | 2021 | [丁元博](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(10).md) | 计算机科学与技术 |
 
-**作弊途径**（仅统计封神榜中记录在案的行为）
+# 作弊途径（仅统计封神榜中记录在案的行为）
 
 | 方式  | 评析  | 相关行为人（典型案例） |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 夹带小抄 | 典   | [乔梦瑶] |
 | 手机直接搜题 | 藏在抽屉中直接用手机搜题 | [卜一] |
 
-**相关事件直接行政包庇人员（被发现后作弊者未受处罚）**
+# 相关事件直接行政包庇人员（被发现后作弊者未受处罚）**
 
 管理学院 [牛珊珊](https://som.hfut.edu.cn/info/1125/4605.htm)(包庇卞子豪等人) [田文祥](http://faculty.hfut.edu.cn/~eIRzUz/zh_CN/index.htm)、[付超](http://faculty.hfut.edu.cn/fc/zh_CN/index/166705/list/index.htm)（包庇2021级信管多人等）
 
@@ -61,6 +61,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 计算机与信息学院 [张海林](https://ci.hfut.edu.cn/info/1038/3722.htm)、[薛原](http://faculty.hfut.edu.cn/xueyuan/zh_CN/index/254961/list/)、黄鹏飞（包庇徐子航等人等）
 
-投稿作弊者及其行为可联系邮箱
 
+# 更新及其它说明 
+投稿作弊者及其行为可联系邮箱
 - hfutcheater@proton.me
