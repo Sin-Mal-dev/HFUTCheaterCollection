@@ -44,6 +44,10 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 2021 | [夏怀琪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(9).md) | 计算机科学与技术 |
 | 2021 | [丁元博](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(10).md) | 计算机科学与技术 |
 
+**电气学院**(待更新)
+| 入学年份 | 姓名  | 专业  |
+| --- | --- | --- |
+| 2021 | | 自动化 |
 # 作弊途径（仅统计封神榜中记录在案的行为）
 
 | 方式  | 评析  | 相关行为人（典型案例） |
