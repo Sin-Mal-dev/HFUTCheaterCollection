@@ -55,7 +55,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 手机直接搜题 | 藏在抽屉中直接用手机搜题 | [卜一] |
 
 
-# 相关事件直接行政包庇人员（被发现后作弊者未受处罚）**
+# 相关事件直接行政包庇人员（被发现后作弊者未受处罚）
 
 管理学院 [牛珊珊](https://som.hfut.edu.cn/info/1125/4605.htm)(包庇卞子豪等人) [田文祥](http://faculty.hfut.edu.cn/~eIRzUz/zh_CN/index.htm)、[付超](http://faculty.hfut.edu.cn/fc/zh_CN/index/166705/list/index.htm)（包庇2021级信管多人等）
 
