@@ -37,6 +37,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 2020 | [乔梦瑶](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(12).md) | 集成电路 |
 | 2020 | [杨康](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(13).md) | 集成电路 |
 | 2021 | [卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(14).md) | 电子科学与技术 |
+| 2021 | | 集成电路 |
 
 **计算机与信息学院**
 
@@ -46,6 +47,9 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 2021 | [黎倩](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(8).md) | 计算机科学与技术 |
 | 2021 | [夏怀琪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(9).md) | 计算机科学与技术 |
 | 2021 | [丁元博](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(10).md) | 计算机科学与技术 |
+| 2021 | | 信息安全 |
+| 2021 | | 通信工程 |
+| 2022 | | 计算机科学与技术 |
 
 **电气学院**(待更新)
 | 入学年份 | 姓名  | 专业  |
