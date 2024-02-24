@@ -28,6 +28,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 2021 | [蔡影](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(3).md) | 信息管理与信息系统 |
 | 2021 | [刘馨仪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(5).md) | 信息管理与信息系统 |
 | 2021 | [周婷](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(6).md) | 信息管理与信息系统 |
+| 2021 | 即将公布 | 会计学 |
 
 **微电子学院**
 
