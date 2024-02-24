@@ -56,6 +56,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | --- | --- | --- |
 | 2020 |即将公布| 电气工程及其自动化 |
 | 2020 |即将公布| 电气工程及其自动化 |
+| 2020 |即将公布| 电气创新实验班 |
 | 2021 |[宗兴泽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(1).md) | 自动化 |
 
 **机械学院**(待更新)
