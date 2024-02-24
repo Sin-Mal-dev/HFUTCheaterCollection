@@ -49,6 +49,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 2021 | [黎倩](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(8).md) | 计算机科学与技术 |
 | 2021 | [夏怀琪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(9).md) | 计算机科学与技术 |
 | 2021 | [丁元博](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(10).md) | 计算机科学与技术 |
+| 2021 | 即将公布| 智能科学与技术 |
 | 2021 | 即将公布| 信息安全 |
 | 2021 | 即将公布| 通信工程 |
 | 2022 | 即将公布| 计算机科学与技术 |
