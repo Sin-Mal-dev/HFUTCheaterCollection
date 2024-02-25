@@ -119,7 +119,17 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
     任意邮件投稿后均通过密匙保存在虚拟机中的Resilio Sync中并且清除本地邮箱信件数据，保证举报者的地址匿名性。
     
 **信息公开**
-    [收信：关于GitHub上合肥工业大学HFUTCheaterCollection的发布沟通](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/receive/1/1.md)
+    补充关于卞子豪的作弊证据说明(待更新)
+
+补充关于打手平台的确凿作弊说明证据（待更新）
+
+[关于胡嘉勋、谢佳其联合远程确凿作弊证据的说明](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E8%83%A1%E5%98%89%E5%8B%8B%E5%92%8C%E8%B0%A2%E4%BD%B3%E5%85%B6.md)
+
+[收信：关于GitHub上合肥工业大学HFUTCheaterCollection的发布沟通](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/receive/1/1.md)
+
+[收信：举报](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md)
+
+[匿名收信：投稿](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(3).md)
     
     [都2024年了还在用字典口令爆破邮箱]
 # 最后的话
