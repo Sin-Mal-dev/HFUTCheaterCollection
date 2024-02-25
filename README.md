@@ -1,6 +1,6 @@
-# HFUTCheaterCollection
+## Star History
 
-[![Stargazers over time](https://starchart.cc/HFUT-CHEATER/HFUTCheaterCollection.svg?variant=adaptive)](https://starchart.cc/HFUT-CHEATER/HFUTCheaterCollection)
+[![Star History Chart](https://api.star-history.com/svg?repos=HFUT-CHEATER/HFUTCheaterCollection&type=Timeline)](https://star-history.com/#HFUT-CHEATER/HFUTCheaterCollection&Timeline)
 
 HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇人员名单——合肥工业大学作弊封神榜
 此作弊封神榜仅给出部分统计的案例，实际作弊（包庇及未被发现）的人数远超统计量。投稿作弊者及其行为可联系邮箱
