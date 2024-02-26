@@ -80,6 +80,12 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 2020 |即将公布| 电气创新实验班 |
 | 2021 |[宗兴泽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(1).md) | 自动化 |
 
+**文法学院**(待更新)
+| 入学年份 | 姓名 | 专业 |
+| 2021 | 即将公布 | 法学（体特）|
+| 2022 | 即将公布 | 法学（文化）|
+
+
 **机械学院**
 | 入学年份 | 姓名 | 专业 |
 | --- | --- | --- |
