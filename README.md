@@ -134,6 +134,10 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 补充关于打手平台的确凿作弊说明证据（待更新）
 
+宣城校区建设的前因后果
+
+公开实名举报梁樑信件
+
 [关于胡嘉勋、谢佳其联合远程确凿作弊证据的说明](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E8%83%A1%E5%98%89%E5%8B%8B%E5%92%8C%E8%B0%A2%E4%BD%B3%E5%85%B6.md)
 
 [收信：关于GitHub上合肥工业大学HFUTCheaterCollection的发布沟通](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/receive/1/1.md)
