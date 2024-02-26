@@ -130,6 +130,10 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
     
 **信息公开**
 
+合肥工业大学管理学院辅导员瞿浩收受贿赂、权力寻租、公开贩卖入党资格(待更新）
+
+合肥工业大学贪官历史(待更新)
+
 [补充关于卞子豪的确凿作弊证据说明](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%8D%9E%E5%AD%90%E8%B1%AA.md)
 
 补充关于打手平台的确凿作弊说明证据（待更新）
