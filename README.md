@@ -31,6 +31,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 | 入学年份 | 姓名  | 专业  |
 | --- | --- | --- |
+| 2020 | 即将公布 | 工商管理 |
 | 2020 | [卞子豪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(1).md) | 市场营销 |
 | 2020 | [刘嘉欣](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(2).md) | 市场营销 |
 | 2021 | [冯梦圆](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1%20(4).md) | 信息管理与信息系统 |
