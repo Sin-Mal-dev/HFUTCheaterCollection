@@ -137,6 +137,8 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 合肥工业大学贪官历史(待更新)
 
+合肥工业大学文法学院体特生、文化生双标考试规定的说明
+
 合肥工业大学计算机与信息学院2019级保研临时更改加分比赛AB类范围的说明
 
 [补充关于卞子豪的确凿作弊证据说明](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%8D%9E%E5%AD%90%E8%B1%AA.md)
