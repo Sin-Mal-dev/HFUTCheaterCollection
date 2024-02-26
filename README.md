@@ -130,13 +130,10 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
     
 **信息公开**
 
-补充关于卞子豪的作弊证据说明(待更新)
-
+[补充关于卞子豪的确凿作弊证据说明](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%8D%9E%E5%AD%90%E8%B1%AA.md)
 补充关于打手平台的确凿作弊说明证据（待更新）
 
-宣城校区建设的前因后果
-
-公开实名举报梁樑信件
+有关实名举报梁樑信件的说明
 
 [关于胡嘉勋、谢佳其联合远程确凿作弊证据的说明](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E8%83%A1%E5%98%89%E5%8B%8B%E5%92%8C%E8%B0%A2%E4%BD%B3%E5%85%B6.md)
 
