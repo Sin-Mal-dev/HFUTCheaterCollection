@@ -123,6 +123,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 改造眼镜 | 可以拍摄照片、远程发送给场外人员 | [卖家视频](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/cheaterglasses.MP4) |
 | 夹带小抄 | 典   | [乔梦瑶] |
 | 手机直接搜题 | 藏在抽屉中直接用手机搜题，或者藏在阴部 | [卜一] [胡嘉勋]|
+| 偷拷老师U盘试卷 | **？** | **即将公布**|
 
 **关于19级计算机与信息学院量身定做的保研加分比赛AB类的说明**
 
