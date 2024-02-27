@@ -6,7 +6,10 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 此作弊封神榜仅给出部分统计的案例，实际作弊（包庇及未被发现）的人数远超统计量。投稿作弊者及其行为可联系邮箱
 
 - [hfutcheater@proton.me](mailto:hfutcheater@proton.me)（运营团队除不可抗力因素外将永久维护）
-
+  
+收到威胁需要法律援助请联系律师邮箱
+- [hfutlawyer@proton.me](mailto:hfutcheater@proton.me)
+  
     从整体角度而言，例如2020微电子学院集成电路专业前十中找不出几个没有作弊的。
 
     从个人自发作弊角度而言，机考近乎无人监管，教师内满墙满桌的小抄以及团伙集体在考前几小时提前占座的行为已经不言而喻。
