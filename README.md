@@ -7,7 +7,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 - [hfutcheater@proton.me](mailto:hfutcheater@proton.me)(运营团队除不可抗力因素外将永久维护)
   
-收到威胁需要法律援助请联系律师邮箱
+收到威胁及诽谤需要法律援助请联系律师邮箱
 - [hfutlawyer@proton.me](mailto:hfutcheater@proton.me)
   
     从整体角度而言，例如2020微电子学院集成电路专业前十中找不出几个没有作弊的。
