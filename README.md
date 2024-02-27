@@ -48,7 +48,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 2021 | [周婷](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(6).md) | 信息管理与信息系统 |
 | 2021 | [赵翊辰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md) | 信息管理与信息系统 |
 | 2021 | [王芸馨](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md) | 信息管理与信息系统 |
-| 2021 | 戴**(**真实性存疑**) | 信息管理与信息系统 |
+| 2021 | [戴*程](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(5).md)(**真实性存疑**) | 信息管理与信息系统 |
 
 **微电子学院**
 
