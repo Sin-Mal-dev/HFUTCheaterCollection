@@ -39,72 +39,77 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 3.补充作弊方式
 
+4.**根据决定，我们决定公开举报者专业，避免有些澄清信不顾事实根据捏造举报对象身份**
  
 # 基本信息
 **管理学院**
 
-| 入学年份 | 姓名  | 专业  |
-| --- | --- | --- |
-| 2020 | 即将公布 | 工商管理 |
-| 2020 | [卞子豪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(1).md) | 市场营销 |
-| 2020 | [刘嘉欣](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(2).md) | 市场营销 |
-| 2021 | [冯梦圆](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(4).md) | 信息管理与信息系统 |
-| 2021 | [蔡影](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(3).md) | 信息管理与信息系统 |
-| 2021 | [刘馨仪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(5).md) | 信息管理与信息系统 |
-| 2021 | [周婷](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(6).md) | 信息管理与信息系统 |
-| 2021 | [赵翊辰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md) | 信息管理与信息系统 |
-| 2021 | [王芸馨](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md) | 信息管理与信息系统 |
-| 2021 | [戴*程](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(5).md)(**真实性存疑,投稿者为信管本专业**) | 信息管理与信息系统 | 
+| 入学年份 | 姓名  | 专业  |举报者专业|
+| --- | --- | --- | ---|
+| 2020 | 即将公布 | 工商管理 |工商管理|
+| 2020 | [卞子豪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(1).md) | 市场营销 |未取得联系 |
+| 2020 | [刘嘉欣](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(2).md) | 市场营销 |未取得联系 |
+| 2021 | [冯梦圆](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(4).md) | 信息管理与信息系统 |信息管理与信息系统 |
+| 2021 | [蔡影](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(3).md) | 信息管理与信息系统 | 信息管理与信息系统 |
+| 2021 | [刘馨仪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(5).md) | 信息管理与信息系统 |信息管理与信息系统 |
+| 2021 | [周婷](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(6).md) | 信息管理与信息系统 |信息管理与信息系统 |
+| 2021 | [赵翊辰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md) | 信息管理与信息系统 |信息管理与信息系统 |
+| 2021 | [王芸馨](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md) | 信息管理与信息系统 |信息管理与信息系统 |
+| 2021 | [戴*程](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(5).md)(**真实性存疑**) | 信息管理与信息系统 | 信息管理与信息系统 |
+
+注释:
+市场营销举报信息源共计五人
+信管举报信息源共计五人
 
 **微电子学院**
 
-| 入学年份 | 姓名  | 专业  |
-| --- | --- | --- |
-| 2020 | [夏睿丹](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(11).md) | 集成电路 |
-| 2020 | [乔梦瑶](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(12).md) | 集成电路 |
-| 2020 | [杨**](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(13).md) (**真实性存疑，存在诽谤可能，投稿者为集电转专业**)| 集成电路 |
-| 2021 | [卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(14).md) | 电子科学与技术 |
+| 入学年份 | 姓名  | 专业  |举报者专业|
+| --- | --- | --- | ---|
+| 2020 | [夏睿丹](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(11).md) | 集成电路 |集成电路 |
+| 2020 | [乔梦瑶](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(12).md) | 集成电路 | 集成电路 |
+| 2020 | [杨**](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(13).md) (**真实性存疑，存在诽谤可能**)| 集成电路 | 集成电路 |
+| 2021 | [卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(14).md) | 电子科学与技术 |电子科学与技术 |
 | 2021 | 即将公布 | 集成电路 |
 
 **计算机与信息学院**
 
-| 入学年份 | 姓名  | 专业  |
-| --- | --- | --- |
+| 入学年份 | 姓名  | 专业  |举报者专业|
+| --- | --- | --- | ---|
 | 2020 | 即将公布 | 计算机科学与技术 |
-| 2021 | [徐子航](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(7).md) | 计算机科学与技术 |
-| 2021 | [黎倩](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(8).md) | 计算机科学与技术 |
-| 2021 | [夏怀琪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(9).md) | 计算机科学与技术 |
-| 2021 | [丁元博](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(10).md) | 计算机科学与技术 |
-| 2021 | 即将公布 | 智能科学与技术 |
-| 2021 | 即将公布 | 电子信息工程 |
-| 2021 | [谢佳其](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(4).md) | 通信工程 |
+| 2021 | [徐子航](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(7).md) | 计算机科学与技术 |计算机科学与技术 |
+| 2021 | [黎倩](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(8).md) | 计算机科学与技术 |通信工程 |
+| 2021 | [夏怀琪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(9).md) | 计算机科学与技术 | 通信工程 |
+| 2021 | [丁元博](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(10).md) | 计算机科学与技术 |通信工程 |
+| 2021 | 即将公布 | 智能科学与技术 |智能科学与技术 |
+| 2021 | 即将公布 | 电子信息工程 |通信工程 |
+| 2021 | [谢佳其](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(4).md) | 通信工程 |要求不公开 |
 | 2022 | 即将公布 | 计算机科学与技术 |
 
 **食品生物工程学院**
 
-| 入学年份 | 姓名  | 专业  |
-| --- | --- | --- |
-| 2021 | [胡嘉勋](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(4).md) | 食品科学与工程 |
+| 入学年份 | 姓名  | 专业  |举报者专业|
+| --- | --- | --- | ---|
+| 2021 | [胡嘉勋](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(4).md) | 食品科学与工程 |要求不公开 |
 
 **电气学院**(待更新)
-| 入学年份 | 姓名 | 专业 |
-| --- | --- | --- |
-| 2020 |曾*楷(**真实性存疑，澄清信也有事实错误，投稿举报者为电气本专业**)| 电气工程及其自动化 |
-| 2020 |即将公布| 电气工程及其自动化 |
-| 2020 |即将公布| 电气创新实验班 |
-| 2021 |[宗兴泽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(1).md) | 自动化 |
+| 入学年份 | 姓名  | 专业  |举报者专业|
+| --- | --- | --- | ---|
+| 2020 |曾*楷(**真实性存疑，澄清信也有事实错误，投稿举报者为电气本专业**)| 电气工程及其自动化 |电气工程及其自动化 |
+| 2020 |即将公布| 电气工程及其自动化 |电气工程及其自动化 |
+| 2020 |即将公布| 电气创新实验班 |电气创新实验班 |
+| 2021 |[宗兴泽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(1).md) | 自动化 |自动化 |
 
 **文法学院**(待更新)
-| 入学年份 | 姓名 | 专业 |
-| --- | --- | --- |
-| 2021 | 刘嘉泽 | 法学(体特)|
-| 2022 | 宗新尧 | 法学(文化)|
+| 入学年份 | 姓名  | 专业  |举报者专业|
+| --- | --- | --- | ---|
+| 2021 | 刘嘉泽 | 法学(体特)|法学|
+| 2022 | 宗新尧 | 法学(文化)|法学|
 
 
 **机械学院**
-| 入学年份 | 姓名 | 专业 |
-| --- | --- | --- |
-| 2022 | [章杰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(3).md) | 食品转机械 |
+| 入学年份 | 姓名  | 专业  |举报者专业|
+| --- | --- | --- | ---|
+| 2022 | [章杰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(3).md) | 食品转机械 |匿名|
 
 # 作弊途径(仅统计封神榜中记录在案的行为)
 
