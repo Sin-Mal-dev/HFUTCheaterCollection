@@ -1,3 +1,5 @@
+置顶信息：[补充关于卞子豪的确凿作弊证据说明](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%8D%9E%E5%AD%90%E8%B1%AA.md)
+
 每日更新
 
 2/28午
