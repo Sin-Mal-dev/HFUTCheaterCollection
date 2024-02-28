@@ -57,7 +57,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 2021 | [王芸馨](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md) | 信息管理与信息系统 |信息管理与信息系统 |
 | 2021 | [戴*程](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(5).md)(**真实性存疑**) | 信息管理与信息系统 | 信息管理与信息系统 |
 
-注释:有部分设计管理学院的澄清信捏造攻击，用质问的语气怀疑举报者，现公布如下
+注释:有部分涉及管理学院的澄清信捏造攻击，用质问的语气怀疑举报者，现公布如下
 **市场营销举报信息源共计五人**
 **信管举报信息源共计五人**
 
