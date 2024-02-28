@@ -62,7 +62,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | --- | --- | --- |
 | 2020 | [夏睿丹](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(11).md) | 集成电路 |
 | 2020 | [乔梦瑶](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(12).md) | 集成电路 |
-| 2020 | [杨**](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(13).md) (**真实性存疑，存在诽谤可能**)| 集成电路 |
+| 2020 | [杨**](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(13).md) (**真实性存疑，存在诽谤可能，投稿者为集电转专业**)| 集成电路 |
 | 2021 | [卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(14).md) | 电子科学与技术 |
 | 2021 | 即将公布 | 集成电路 |
 
