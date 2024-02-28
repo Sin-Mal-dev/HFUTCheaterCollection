@@ -81,15 +81,11 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **每日更新2/29**
 
-1.投稿计算机能力挑战赛内部信息的补充
+**[1.举报者如何应付约谈](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/interrogate.md)**
 
-2.即将更新2019级计算机与信息学院保研有关信息
+**[2.如何逃避追踪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/protect.md)**
 
-3.补充作弊方式
-
-4.**根据决定，我们决定公开举报者专业，避免有些澄清信不顾事实根据捏造举报对象身份反诬陷他人**
-
-**[5.举报者如何应付约谈](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/interrogate.md)**
+**[3.合肥工业大学笑话拾遗](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/joke.md)**
  
 # 基本信息
 **管理学院**
