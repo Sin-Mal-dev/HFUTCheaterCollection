@@ -41,7 +41,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 4.**根据决定，我们决定公开举报者专业，避免有些澄清信不顾事实根据捏造举报对象身份反诬陷他人**
 
-**5.举报者如何应付约谈**
+**[5.举报者如何应付约谈](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/interrogate.md)**
  
 # 基本信息
 **管理学院**
