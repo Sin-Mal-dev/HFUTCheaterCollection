@@ -57,9 +57,9 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 2021 | [王芸馨](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md) | 信息管理与信息系统 |信息管理与信息系统 |
 | 2021 | [戴*程](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(5).md)(**真实性存疑**) | 信息管理与信息系统 | 信息管理与信息系统 |
 
-注释:
-市场营销举报信息源共计五人
-信管举报信息源共计五人
+注释:有部分设计管理学院的澄清信捏造攻击，用质问的语气怀疑举报者，现公布如下
+**市场营销举报信息源共计五人**
+**信管举报信息源共计五人**
 
 **微电子学院**
 
@@ -95,7 +95,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 入学年份 | 姓名  | 专业  |举报者专业|
 | --- | --- | --- | ---|
 | 2020 |曾*楷(**真实性存疑，澄清信也有事实错误，投稿举报者为电气本专业**)| 电气工程及其自动化 |电气工程及其自动化 |
-| 2020 |即将公布| 电气工程及其自动化 |电气工程及其自动化 |
+| 2020 |顾**| 电气工程及其自动化 |电气工程及其自动化 |
 | 2020 |即将公布| 电气创新实验班 |电气创新实验班 |
 | 2021 |[宗兴泽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(1).md) | 自动化 |自动化 |
 
