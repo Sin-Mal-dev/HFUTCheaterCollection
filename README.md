@@ -54,7 +54,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 2021 | [周婷](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(6).md) | 信息管理与信息系统 |
 | 2021 | [赵翊辰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md) | 信息管理与信息系统 |
 | 2021 | [王芸馨](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md) | 信息管理与信息系统 |
-| 2021 | [戴*程](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(5).md)(**真实性存疑**) | 信息管理与信息系统 |
+| 2021 | [戴*程](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(5).md)(**真实性存疑,投稿者为信管本专业**) | 信息管理与信息系统 | 
 
 **微电子学院**
 
@@ -89,7 +89,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 **电气学院**(待更新)
 | 入学年份 | 姓名 | 专业 |
 | --- | --- | --- |
-| 2020 |曾*楷(**真实性存疑，澄清信也有事实错误**)| 电气工程及其自动化 |
+| 2020 |曾*楷(**真实性存疑，澄清信也有事实错误，投稿举报者为电气本专业**)| 电气工程及其自动化 |
 | 2020 |即将公布| 电气工程及其自动化 |
 | 2020 |即将公布| 电气创新实验班 |
 | 2021 |[宗兴泽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(1).md) | 自动化 |
