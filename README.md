@@ -43,7 +43,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **[2.如何逃避追踪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/protect.md)**
 
-**[3.合肥工业大学笑话拾遗](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/joke.md)**
+**[3.合肥工业大学笑话拾遗（第一期二十五篇）](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/joke.md)**
  
 # 基本信息
 **管理学院**
