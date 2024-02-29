@@ -1,4 +1,5 @@
 第一批
+微电子与集成电路
 yuweize@sdu.edu.cn
 yongw@sdu.edu.cn
 dahogn@sdu.edu.cn
