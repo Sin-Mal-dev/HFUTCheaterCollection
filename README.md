@@ -74,7 +74,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **9.对本科生发表论文进行质疑打假**
 
-**10.[谣言还是预言——合肥工业大学真理标准大讨论]()**
+**10.[谣言还是预言——合肥工业大学真理标准大讨论](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/issues/28)**
 
 **11.[炮打合工大领导——我的一张大字报]()**
 
