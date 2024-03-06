@@ -114,8 +114,8 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 入学年份 | 姓名  | 专业  |举报者专业|
 | --- | --- | --- | ---|
 | 2020 | 即将公布 | 计算机科学与技术 |
-| 2020 | 即将公布 | 电子信息工程 |
-| 2020 | 即将公布 | 电子信息工程 |
+| 2020 | 李新茹 | 电子信息工程 |
+| 2020 | 张静雅 | 电子信息工程 |
 | 2021 | [徐子航](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(7).md) | 计算机科学与技术 |计算机科学与技术 |
 | 2021 | [黎倩](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(8).md) | 计算机科学与技术 |通信工程 |
 | 2021 | [夏怀琪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(9).md) | 计算机科学与技术 | 通信工程 |
@@ -123,7 +123,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 2021 | 即将公布 | 智能科学与技术 |智能科学与技术 |
 | 2021 | 即将公布 | 电子信息工程 |通信工程 |
 | 2021 | [谢佳其](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(4).md) | 通信工程 |要求不公开 |
-| 2022 | 即将公布 | 计算机科学与技术 |
+| 2022 | 王*昊 | 计算机科学与技术 |
 
 **食品生物工程学院**
 
