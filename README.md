@@ -65,7 +65,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **6.[徐子航](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(7).md)的新发明话术欣赏**
 
-**7.笑话拾遗第二期**
+**7.[笑话拾遗第二期](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/joke2.md)**
 
 **8.欣赏名言** 
 
