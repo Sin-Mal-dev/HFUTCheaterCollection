@@ -55,7 +55,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **1.有关21软工黄安然AAAI一作论文的质疑**
 
-**2.文法学院特殊“毕业”规则的奥秘**
+**[2.文法学院特殊“毕业”规则的奥秘](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/wfxy.md)**
 
 **3.合工大各学院导师评价信息**
 
@@ -63,7 +63,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **5.刘嘉泽五大战绩**
 
-**6.徐子航的新发明话术欣赏**
+**6.[徐子航](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(7).md)的新发明话术欣赏**
 
 **7.笑话拾遗第二期**
 
