@@ -1,5 +1,4 @@
-## Star History
-
+## 既不厚德，也不笃学。既不崇实，也不尚新
 [![Star History Chart](https://api.star-history.com/svg?repos=HFUT-CHEATER/HFUTCheaterCollection&type=Timeline)](https://star-history.com/#HFUT-CHEATER/HFUTCheaterCollection&Timeline)
 
 HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇人员名单——合肥工业大学作弊封神榜
@@ -72,10 +71,12 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/160773353/0fb6123f-9954-4edb-b48d-fe63eaf62f5d)
 
 **9.[故闻：胡锦涛书记三点批示处理合肥工业大学]()**
+
+**10.[2019级计算机保研内幕]()**
+
 # 基本信息
 **管理学院**
 
-**10.2019级计算机保研内幕()**
 
 
 | 入学年份 | 姓名  | 专业  |举报者专业|
