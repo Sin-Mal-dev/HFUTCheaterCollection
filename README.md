@@ -71,7 +71,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/160773353/0fb6123f-9954-4edb-b48d-fe63eaf62f5d)
 
-
+**9.[故闻：胡锦涛书记三点批示处理合肥工业大学]()**
 # 基本信息
 **管理学院**
 
