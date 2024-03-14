@@ -77,6 +77,8 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **13.[评论文章：做题家之死，作弊家之高歌]()**
 
+**14.[关于仪器学院2018级的乱象](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/receive/2/2.md)**
+
 # 基本信息
 **管理学院**
 
