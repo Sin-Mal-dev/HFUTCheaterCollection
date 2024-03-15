@@ -54,6 +54,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 **[2.文法学院特殊“毕业”规则的奥秘](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/wfxy.md)**
 
 **3.[合工大各学院导师评价信息](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main/teacher)**
+  - [仪器学院](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/teacher/%E4%BB%AA%E5%99%A8%E5%AD%A6%E9%99%A2.md)
 
 **4.English.ver**
 
