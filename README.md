@@ -206,7 +206,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 文法学院 朱曼婷
 
-计算机与信息学院 [张海林](https://ci.hfut.edu.cn/info/1038/3722.htm)、[薛原](http://faculty.hfut.edu.cn/xueyuan/zh_CN/index/254961/list/)、黄鹏飞(监考员)、陈田(包庇徐子航等人等)
+计算机与信息学院 [张海林](https://ci.hfut.edu.cn/info/1038/3722.htm)、[薛原](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E8%96%9B%E5%8E%9F.md)、黄鹏飞(监考员)、陈田(包庇徐子航等人等)
 
 
 # 更新及其它说明 
