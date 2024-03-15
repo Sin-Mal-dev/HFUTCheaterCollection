@@ -80,7 +80,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **14.[关于仪器学院2018级的乱象](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/receive/2/2.md)**
 
-**15.[(HFUT)CC——cheatercoin(作币)区块链白皮书]()
+**15.[(HFUT)CC——cheatercoin(作币)区块链白皮书]()**
 
 # 基本信息
 **管理学院**
