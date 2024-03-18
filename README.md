@@ -89,9 +89,11 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **17.[有关实名举报梁樑信件的说明](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2016.md)**
 
-**18.[2018刘同学跳楼事件]()
+**18.[2018刘同学跳楼事件]()**
 
-**19.[2023殷同学自杀事件]()
+**19.[2023殷同学自杀事件]()**
+
+**20.[社会随想——合肥工业大学两亿经费建设留学生宿舍]()
 
 # 基本信息
 
