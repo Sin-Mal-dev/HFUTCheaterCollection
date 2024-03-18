@@ -93,7 +93,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **19.[2023殷同学自杀事件]()**
 
-**20.[社会随想——合肥工业大学两亿经费建设留学生宿舍]()
+**20.[社会随想——合肥工业大学两亿经费建设留学生宿舍](https://github.com/HFUT-CHEATER/SocialThink)**
 
 # 基本信息
 
