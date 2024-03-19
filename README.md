@@ -95,7 +95,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **20.[社会随想——合肥工业大学两亿经费建设留学生宿舍](https://github.com/HFUT-CHEATER/SocialThink)**
 
-**21.[硕士论文与其他工作大面积重合的相似比较](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E8%96%9B%E5%8E%9F.md)**
+**21.[薛原硕士论文与其他工作大面积重合的相似比较](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E8%96%9B%E5%8E%9F.md)**
 
 **22.[广告学系主任王忠硕士论文涉嫌抄袭]()**
 
