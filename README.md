@@ -99,6 +99,8 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **22.[广告学系主任王忠硕士论文涉嫌抄袭](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/wz.md)**
 
+**23.[合肥工业大学金菊良打听基金过审要求关照](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/jvl.md)**
+
 # 基本信息
 
 **辅导员信息一览**
