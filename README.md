@@ -70,17 +70,17 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **9.[故闻：胡锦涛书记三点批示处理合肥工业大学](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2003.md)**
 
-**10.[2019级计算机保研内幕]()
+**10.[2019级计算机保研内幕施工中]
 
-**11.[gitbook]()
+**11.[gitbook施工中]
 
-**12.[评论文章：合工大行政的鸵鸟主义与半封建社会的帝国主义有异曲同工之妙]()
+**12.[评论文章：合工大行政的鸵鸟主义与半封建社会的帝国主义有异曲同工之妙]
 
-**13.[评论文章：做题家之死，作弊家之高歌]()
+**13.[评论文章：做题家之死，作弊家之高歌]
 
 **14.[关于仪器学院2018级的乱象](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/receive/2/2.md)**
 
-**15.[(HFUT)CC——cheatercoin(作币)区块链白皮书]()
+**15.[(HFUT)CC——cheatercoin(作币)区块链白皮书]
 
 **16.辅导员简历整理**
 - [左能](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E5%B7%A6%E8%83%BD.md)
@@ -91,7 +91,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **18.[2018刘同学跳楼事件](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2018lhs.md)**
 
-**19.[2023殷同学自杀事件]()
+**19.[2023殷同学自杀事件](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2023tmxy-ytx)**
 
 **20.[社会随想——合肥工业大学两亿经费建设留学生宿舍](https://github.com/HFUT-CHEATER/SocialThink)**
 
