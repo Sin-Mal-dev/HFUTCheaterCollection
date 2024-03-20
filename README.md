@@ -101,6 +101,8 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **23.[合肥工业大学金菊良打听基金过审要求关照](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/jvl.md)**
 
+**24.[由大连理工大学张立卫教授做女儿的导师的迁移——合肥工业大学版张立卫有多少人？]
+
 # 基本信息
 
 **辅导员信息一览**
