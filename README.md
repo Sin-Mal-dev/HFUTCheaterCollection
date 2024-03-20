@@ -105,7 +105,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **25.[卧底作弊打手平台]
 
-**26.集成电路新角色——汪泽衽
+**26.集成电路新角色——汪泽礽
 
 # 基本信息
 
@@ -139,7 +139,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | --- | --- | --- | ---|
 | 2020 | [夏睿丹](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(11).md) | 集成电路 |集成电路 |
 | 2020 | [乔梦瑶](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(12).md) | 集成电路 | 集成电路 |
-| 2020 | 汪泽衽 | 集成电路 | 集成电路 |
+| 2020 | 汪泽礽 | 集成电路 | 集成电路 |
 | 2020 | [杨康](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(13).md) | 集成电路 | 集成电路 |
 | 2021 | [卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(14).md) | 电子科学与技术 |电子科学与技术 |
 | 2021 | 即将公布 | 集成电路 |
