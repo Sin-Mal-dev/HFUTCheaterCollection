@@ -112,7 +112,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **27.电气学院新角色
 
-- 朱文拿系列(https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E6%9C%B1%E6%96%87%E6%8B%BF.md)
+- [朱文拿系列](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E6%9C%B1%E6%96%87%E6%8B%BF.md)
 
 **28.朱文拿硕士学位论文涉嫌抄袭**
 
