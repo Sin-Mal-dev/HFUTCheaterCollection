@@ -114,7 +114,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 - [朱文拿系列](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E6%9C%B1%E6%96%87%E6%8B%BF.md)
 
-**28.朱文拿硕士学位论文低水平缝合其指导导师胡作友多篇论文**
+**28.朱文拿硕士学位论文涉嫌抄袭——低水平缝合其指导导师胡作友及其指导下已毕业学生多篇论文，理应取消其硕士学位**
 
 **29.朱文拿和杨康有关作弊的对话录音**
 
