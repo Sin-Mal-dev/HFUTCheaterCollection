@@ -130,6 +130,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 - [左能](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E5%B7%A6%E8%83%BD.md)
 - [薛原](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E8%96%9B%E5%8E%9F.md)
 - [黄鹏飞](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E9%BB%84%E9%B9%8F%E9%A3%9E.md)
+- [朱文拿](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E6%9C%B1%E6%96%87%E6%8B%BF.md)
 
 **管理学院**
 
