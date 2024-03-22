@@ -131,6 +131,8 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **35.互联网加等PPT大赛被哪些人操控——各学院祖传项目一览**
 
+**36.[交流群地址](https://t.me/hfutcheatercollection)**
+
 # 基本信息
 
 **辅导员信息一览**
