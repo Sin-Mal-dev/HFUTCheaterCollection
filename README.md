@@ -42,7 +42,8 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 ---
 
 **置顶**
-[电子书地址](https://hfutcheater.gitbook.io/hfutcheatercollection)https://hfutcheater.gitbook.io/hfutcheatercollection
+[电子书地址](https://hfutcheater.gitbook.io/hfutcheatercollection)
+[交流群地址](https://t.me/hfutcheatercollection)
 [举报者被怀疑后如何应付约谈](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/interrogate.md)
 [如何逃避追踪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/protect.md)
 ---
