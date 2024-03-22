@@ -110,7 +110,8 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 **26.集成电路新角色——[汪泽礽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md)
 - 人间黑色喜剧汪同学进行保研经验传授——[微电子学院开展同“芯”并进系列经验交流分享](https://news.hfut.edu.cn/info/1017/62611.htm)
 - 评论文章——汪同学是怎么将立场迅速从反马克思反资本论跳反到一名党员的
-
+- [更新：回复其本人的质疑](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md)
+  
 **27.抛开多次作弊之外对电气学院冯睿相关论文A Scientific Network Model Around the 17 UN SDGs的质疑
 
 - [朱文拿系列](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E6%9C%B1%E6%96%87%E6%8B%BF.md)
