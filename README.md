@@ -256,8 +256,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 偷拷老师U盘试卷 | **？** | **即将公布**|
 | 量身定做比赛(比赛本身) | **计算机能力挑战赛** | 2020级计算机与信息学院**详情**|
 | 量身定做比赛(修改保研规则) | **智慧健康养老创新创业大赛**、**安徽省防震减灾创意科普大赛**、**中国健康长寿大赛等** | **2019级计算机与信息学院**|
-|灌水论文|虚假数据、购买论文、学阀关系|KPA-Tracker: Towards Robust and Real-Time Category-Level Articulated Object 6D Pose Tracking 、A Scientific Network Model Around the 17 UN SDGs
-|
+|灌水论文|虚假数据、购买论文、学阀关系|KPA-Tracker: Towards Robust and Real-Time Category-Level Articulated Object 6D Pose Tracking 、A Scientific Network Model Around the 17 UN SDGs|
 |性交易|不用评析|即将公布|
 |购买比赛成品|数学建模国赛、数学建模美赛|你猜有多少人|
 |认老师为干爹干妈|不失为一种幽默|王同学|
