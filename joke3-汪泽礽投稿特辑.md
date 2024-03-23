@@ -32,3 +32,15 @@
 
 (其十)
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/eb18b1d3-f25e-4089-9ca7-58563b5d0523)
+
+(十一)
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/0e25347a-9aee-4d5c-aebe-32927ed11f4d)
+
+(十二)
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/3c80eb07-c8ba-4b19-95d7-e20a7e6c759a)
+
+(十三)
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/e6ec3111-6805-4e00-8db7-33614a41e37c)
+
+(十四)
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/5f15406c-39df-42d5-aa94-f818209383de)
