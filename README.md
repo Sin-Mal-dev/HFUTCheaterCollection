@@ -105,7 +105,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 **24.[由大连理工大学张立卫教授做女儿的导师的迁移——合肥工业大学版张立卫有多少人？]
 
-**25.[卧底作弊打手平台]
+**25.[揭发产业链——卧底作弊打手平台]
 
 **26.集成电路新角色——[汪泽礽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md)
 - 人间黑色喜剧汪同学进行保研经验传授——[微电子学院开展同“芯”并进系列经验交流分享](https://news.hfut.edu.cn/info/1017/62611.htm)
