@@ -56,3 +56,9 @@
 
 (十八)
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/759a5880-4700-422c-9a57-5a24db71a275)
+
+(十九)
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/733938ce-1283-4e16-b7b9-2b3fc2416540)
+
+(贰十)
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/06bf4130-b2b9-4873-a08c-907c969e2a32)
