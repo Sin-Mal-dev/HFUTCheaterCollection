@@ -27,3 +27,8 @@
 (其八)
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/f3e68bb9-a55d-44d9-b48f-96dc4bdd4d3e)
 
+(其九)
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/0f3e7b06-bf2f-4976-8868-56b37dd36f47)
+
+(其十)
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/eb18b1d3-f25e-4089-9ca7-58563b5d0523)
