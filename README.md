@@ -1,4 +1,4 @@
-## 既不厚德，也不笃学。既不崇实，也不尚新  置顶小丑：[汪泽礽、陈贵琳、李博翰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md)
+## 既不厚德，也不笃学。既不崇实，也不尚新  置顶小丑：[汪泽礽🤡、陈贵琳、李博翰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md)
 [![Star History Chart](https://api.star-history.com/svg?repos=HFUT-CHEATER/HFUTCheaterCollection&type=Timeline)](https://star-history.com/#HFUT-CHEATER/HFUTCheaterCollection&Timeline)
 
 HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇人员名单——合肥工业大学作弊封神榜
