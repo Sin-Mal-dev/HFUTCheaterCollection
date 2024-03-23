@@ -169,7 +169,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | --- | --- | --- | ---|
 | 2020 | [夏睿丹](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(11).md) | 集成电路 |集成电路 |
 | 2020 | [乔梦瑶](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(12).md) | 集成电路 | 集成电路 |
-| 2020 | 汪泽礽 | 集成电路 | 集成电路 |
+| 2020 | [汪泽礽]((https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md)) | 集成电路 | 集成电路 |
 | 2020 | [杨康](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(13).md) | 集成电路 | 集成电路 |
 | 2021 | [卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(14).md) | 电子科学与技术 |电子科学与技术 |
 | 2021 | 即将公布 | 集成电路 |
@@ -200,7 +200,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | 入学年份 | 姓名  | 专业  |举报者专业|
 | --- | --- | --- | ---|
 | 2020 |曾*楷(**人身攻击他人**)| 电气工程及其自动化 |电气工程及其自动化 |
-| 2020 |[冯睿]()| 电气工程及其自动化 |电气工程及其自动化 |
+| 2020 |[冯睿]| 电气工程及其自动化 |电气工程及其自动化 |
 | 2020 |甘源| 电气工程及其自动化 |电气工程及其自动化 |
 | 2020 |顾*江| 电气工程及其自动化 |电气工程及其自动化 |
 | 2020 |即将公布| 电气创新实验班 |电气创新实验班 |
@@ -221,6 +221,8 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 | --- | --- | --- | ---|
 | 2021 | [刘嘉泽]() | 法学(体特)|法学|
 | 2022 | [宗新尧]() | 法学(文化)|法学|
+
+**外国语学院**
 
 **土木与水利工程学院**
 | 入学年份 | 姓名  | 专业  |举报者专业|
