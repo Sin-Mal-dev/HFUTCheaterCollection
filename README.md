@@ -1,6 +1,6 @@
 ## 既不厚德，也不笃学。既不崇实，也不尚新  
 ## 置顶周处除三害：[汪泽礽🤡🐖、陈贵琳🐍、李博翰🕊](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md) 注:谢谢汪同学，本以为抓了个小贼，没想到捅了老窝(已提交作证材料至校纪委监察办公室、中国科学技术部诚信办秘书处) ——据其死不悔改的态度，决定公开其身份证号,像他们这样的害虫必须扼杀在摇篮之中
-## 对章同学的劝告：如果我是你的话，我早就把他们全杀了
+## 对章同学的劝告：如果我是你的话，我早就把他们全杀了，既然现在他们把你毁了，不如同归于尽
 ## [汪泽礽笑话精选集](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/joke3-%E6%B1%AA%E6%B3%BD%E7%A4%BD%E6%8A%95%E7%A8%BF%E7%89%B9%E8%BE%91.md)  相关扩展阅读:[NPD自恋型人格障碍](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/NPD.md)
 ## 插播旁闻一则：12楼南楼621宿舍（🐖🐍🕊宿舍），把宿舍楼当自己家，621宿舍距离公共水房较近，且每天熄灯最早，有时晚上外面有多人洗漱，他们就会出来大声斥责，把公共区域当成自己家😅平时不愿意理你们，真以为怕你们啊，一群小丑🤡
 ## 学校三委已彻底沦为摆设，对卞子豪确凿证据装作鸵鸟，不予回复
