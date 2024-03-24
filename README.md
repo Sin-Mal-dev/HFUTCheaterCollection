@@ -1,5 +1,5 @@
 ## 既不厚德，也不笃学。既不崇实，也不尚新  
-## 置顶周处除三害：[汪泽礽🤡🐖、陈贵琳🐍、李博翰🕊](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md) 注:谢谢汪同学，本以为抓了个小贼，没想到捅了老窝 
+## 置顶周处除三害：[汪泽礽🤡🐖、陈贵琳🐍、李博翰🕊](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md) 注:谢谢汪同学，本以为抓了个小贼，没想到捅了老窝(已提交作证材料至校纪委监察办公室、中国科学技术部诚信办秘书处) 
 ## 相关扩展阅读:[NPD自恋型人格障碍](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/NPD.md)
 [![Star History Chart](https://api.star-history.com/svg?repos=HFUT-CHEATER/HFUTCheaterCollection&type=Timeline)](https://star-history.com/#HFUT-CHEATER/HFUTCheaterCollection&Timeline)
 
