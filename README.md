@@ -248,6 +248,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 **机械学院**
 | 入学年份 | 姓名  | 专业  |举报者专业|
 | --- | --- | --- | ---|
+| 2017 | 李** | 机械 |匿名|
 | 2022 | [章杰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(3).md) | 食品转机械 |匿名|
 
 # 作弊途径(仅统计封神榜中记录在案的行为)
