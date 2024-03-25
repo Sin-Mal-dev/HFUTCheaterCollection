@@ -4,7 +4,7 @@
 - 补充汪大佐日军军服艺术照一张，建议公安机关严肃处理
 - 补充投稿评价一则：汪法第一章第一条，不得说汪是🤡，违反了泄漏机密罪
 - 补充投稿一则：傻逼脑子被驴踢了，真当自己保研了就不是笨逼了吗。这个逼还说自己没想过保研，谁他妈信啊，哪个保研边缘的不准备考研
-- 你工去科大的人多了，让我觉得科大都是水校了
+- 你工去科大的人多了，让我觉得科大都是水校了——破案了：科大在华五里排名越来越低的原因找到了，是**研究生生源工大太多了**
 - 知情人评价：😋不把你们搞死是不可能的
 ## 补充投稿——[汪泽礽🐖、陈贵琳🐍、李博翰🕊是怎么迫害章同学的]
 ## [汪泽礽笑话精选集](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/joke3-%E6%B1%AA%E6%B3%BD%E7%A4%BD%E6%8A%95%E7%A8%BF%E7%89%B9%E8%BE%91.md)  相关扩展阅读:[NPD自恋型人格障碍](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/NPD.md) [汪氏宗亲](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/wsjz.md)
