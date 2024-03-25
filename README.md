@@ -5,6 +5,7 @@
 ## [汪泽礽笑话精选集](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/joke3-%E6%B1%AA%E6%B3%BD%E7%A4%BD%E6%8A%95%E7%A8%BF%E7%89%B9%E8%BE%91.md)  相关扩展阅读:[NPD自恋型人格障碍](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/NPD.md) [汪氏宗亲](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/wsjz.md)
 ## 插播旁闻一则：12楼南楼621宿舍（🐖🐍🕊宿舍），把宿舍楼当自己家，621宿舍距离公共水房较近，且每天熄灯最早，有时晚上外面有多人洗漱，他们就会出来大声斥责，把公共区域当成自己家😅平时不愿意理你们，真以为怕你们啊，一群小丑🤡
 ## 学校三委已彻底沦为摆设，对卞子豪确凿证据装作鸵鸟，不予回复
+## 还没注册研究生学籍，别高兴太早
 [![Star History Chart](https://api.star-history.com/svg?repos=HFUT-CHEATER/HFUTCheaterCollection&type=Timeline)](https://star-history.com/#HFUT-CHEATER/HFUTCheaterCollection&Timeline)
 
 HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇人员名单——合肥工业大学作弊封神榜
