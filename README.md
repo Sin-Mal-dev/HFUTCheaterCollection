@@ -12,6 +12,7 @@
 - 一切会有变化。腐朽的大的力量要让位给新生的小的力量。力量小的要变成大的，因为大多数人要求变。
 - 什么叫问题？问题就是事物的矛盾。哪里有没有解决的矛盾，哪里就有问题。
 - 凡是反动的东西，你不打，他就不倒。这也和扫地一样，扫帚不到，灰尘照例不会自己跑掉。
+- 大学教育应当改造，文科不改造不得了。不改造能出哲学家吗？能出文学家吗？能出历史学家吗？现在的哲学家搞不了哲学，文学家写不了小说，历史学家搞不了历史，连培养出一个人格正常的辅导员都难如登天，谈何素质教育。
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HFUT-CHEATER/HFUTCheaterCollection&type=Timeline)](https://star-history.com/#HFUT-CHEATER/HFUTCheaterCollection&Timeline)
 
