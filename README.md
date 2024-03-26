@@ -22,6 +22,7 @@
   - 霸凌连者[陈贵琳](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md) 
   - 优毕连者[李博翰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md)
   - 邮件连者[杨康](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(13).md)
+
     改自恐龙战队剧情：企图消灭人类、征服世界的邪恶女王－魔女朱文拿以及其手下被守护神封印在安徽的合肥－合肥工业大学的微电子学院的瓮中。
 然而直到现在，探索合肥工业大学的hfutcheater组员之好奇心下意外打开汪大佐其封印盖子，朱文拿与手下们一起逃出封印瓮。随后，他们便前往校党委，召唤五位沈睡已久的五人亲朋好友，让他们化身为保护作弊的“集成电路作弊战队保连者”守护兽，一起逃避制裁。
 ## 置顶周处除三害：[汪泽礽🤡🐖、陈贵琳🐍、李博翰🕊](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md) 注:谢谢汪大佐，本以为抓了个小贼，没想到捅了老窝(已提交作证材料至校纪委监察办公室、中国科学技术部诚信办秘书处) ——据其死不悔改的态度，决定公开其身份证号,像他们这样的害虫必须扼杀在摇篮之中，其[信件公示位置](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main/receive/3)
