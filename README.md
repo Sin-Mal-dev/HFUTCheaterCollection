@@ -15,6 +15,13 @@
   - 您不是保研清深，为什么说自己去本部？
   - 您不是三代电气人，怎么一直说自己要出国，最后保研？
   - 您觉得您那篇垃圾水论文足以让你保清华？
+- 集成电路恐龙战队兽连者
+  - 截图连者[夏睿丹](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(11).md) 
+  - 小抄连者[乔梦瑶](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(12).md) 
+  - 报警连者[汪泽礽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md) 
+  - 霸凌连者[陈贵琳](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md) 
+  - 优毕连者[李博翰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md)
+  - 邮件连者[杨康](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(13).md))
 ## 置顶周处除三害：[汪泽礽🤡🐖、陈贵琳🐍、李博翰🕊](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md) 注:谢谢汪大佐，本以为抓了个小贼，没想到捅了老窝(已提交作证材料至校纪委监察办公室、中国科学技术部诚信办秘书处) ——据其死不悔改的态度，决定公开其身份证号,像他们这样的害虫必须扼杀在摇篮之中，其[信件公示位置](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main/receive/3)
 - 补充汪大佐日军军服艺术照一张，建议公安机关严肃处理(国安举报电话12339)
 - 补充投稿评价一则：汪法第一章第一条，不得说汪是🤡，违反了泄漏机密罪
