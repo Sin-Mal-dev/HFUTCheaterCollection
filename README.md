@@ -20,6 +20,7 @@
   - 您不是保研清深，为什么说自己去本部？
   - 您不是三代电气人，怎么一直说自己要出国，最后保研？
   - 您觉得您那篇垃圾水论文足以让你保清华？
+注：再不回应将公示你全家
 - 集成电路作弊战队保连者
   - 十佳连者[夏睿丹](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(11).md) 
   - 小抄连者[乔梦瑶](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(12).md) 
