@@ -2,7 +2,7 @@
 定性：这所学校是既是安徽本地关系户的学校、也是北京✌、上海✌、武汉三代电气✌来秀存在的学校，唯独不是你一个普通外省人的学校，管理科学与工程A?作弊科学与工程SSS
 ## 优秀毕业生打假特辑(公示期至29号)，这份名单的公布只能说明校党委也是个摆设,原来作弊作的好，作的多就是你校优秀的评价标准
 - 行政人员造假事迹
-  - [薛原](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E8%96%9B%E5%8E%9F.md)
+  - [薛原](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E8%96%9B%E5%8E%9F.md)(370202199207203525)
   - [朱文拿](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E6%9C%B1%E6%96%87%E6%8B%BF.md)
 - 微电子学院省优
   **杨 康**(作弊保研浙大) **李博翰**(宿舍霸凌、团伙作弊)
