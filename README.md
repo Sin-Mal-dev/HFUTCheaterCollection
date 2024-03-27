@@ -2,6 +2,13 @@
 定性：这所学校是既是安徽本地关系户的学校、也是北京✌、上海✌、武汉三代电气✌来秀存在的学校，唯独不是你一个普通外省人的学校，管理科学与工程A?作弊科学与工程SSS
 
 友情链接：即将发布 HFUTHIVCollection(合肥工业大学艾滋病患者封神榜)
+更新预告：
+  1.作弊TV:宣城校区新赛季
+  
+  2.爱人TV:辅导员婚内与校领导出轨
+
+  3.掩盖TV:计算机与信息学院掩盖自杀事件
+  
 ## [人大代表建议取消第一学历歧视，原因竟是其本科为合工大](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/pfs.md)
 ## [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)(三天内更完)
 奉劝今年高考的考生家长千万不要让孩子志愿填报合工大,没关系没条件您的孩子再优秀也只是人矿及人肉电池
