@@ -20,6 +20,7 @@
   7.瓢虫TV:宣城公安局统计合工大宣城校区嫖娼行政拘留人数
 
   8.陈贵琳TV
+  
     ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/e0a3a129-0374-4492-b8cf-5a7660bbbff3)
 
 ## [人大代表建议取消第一学历歧视，原因竟是其本科为合工大](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/pfs.md)
