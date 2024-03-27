@@ -19,6 +19,7 @@
   
   ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/e0a3a129-0374-4492-b8cf-5a7660bbbff3)
 
+  7.宣城公安局统计合工大宣城校区嫖娼行政拘留人数
   
 ## [人大代表建议取消第一学历歧视，原因竟是其本科为合工大](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/pfs.md)
 ## [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)(三天内更完)
