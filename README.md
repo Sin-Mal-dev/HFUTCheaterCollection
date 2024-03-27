@@ -17,10 +17,11 @@
 
   6.献血TV:献血私用贩卖骗局与第二课堂背后
   
-  ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/e0a3a129-0374-4492-b8cf-5a7660bbbff3)
+  7.瓢虫TV:宣城公安局统计合工大宣城校区嫖娼行政拘留人数
 
-  7.宣城公安局统计合工大宣城校区嫖娼行政拘留人数
-  
+  8.陈贵琳TV
+    ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/e0a3a129-0374-4492-b8cf-5a7660bbbff3)
+
 ## [人大代表建议取消第一学历歧视，原因竟是其本科为合工大](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/pfs.md)
 ## [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)(三天内更完)
 奉劝今年高考的考生家长千万不要让孩子志愿填报合工大,没关系没条件您的孩子再优秀也只是人矿及人肉电池
