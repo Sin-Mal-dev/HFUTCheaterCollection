@@ -12,6 +12,8 @@
   3.掩盖TV:计算机与信息学院掩盖自杀事件
 
   4.红楼TV:翠A博导与女博士生
+
+  5.买卖TV:为拿经费互换女学生
   
 ## [人大代表建议取消第一学历歧视，原因竟是其本科为合工大](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/pfs.md)
 ## [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)(三天内更完)
