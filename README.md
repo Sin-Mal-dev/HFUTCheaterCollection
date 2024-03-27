@@ -1,7 +1,7 @@
 ## 既不厚德，也不笃学。既不崇实，也不尚新  
 定性：这所学校是既是安徽本地关系户的学校、也是北京✌、上海✌、武汉三代电气✌来秀存在的学校，唯独不是你一个普通外省人的学校，管理科学与工程A?作弊科学与工程SSS
 ## [人大代表建议取消第一学历歧视，原因竟是其本科为合工大](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/pfs.md)
-## [拿了国奖又如何——以2024年2-3月计算机与信息学院行政如何掩盖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)
+## [拿了国奖又如何——以2024年2-3月计算机与信息学院行政如何掩盖国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)
 奉劝今年高考的考生家长千万不要让孩子志愿填报合工大,没关系没条件您的孩子再优秀也只是人矿及人肉电池
   - 薛原
   - 张海林
