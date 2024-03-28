@@ -24,7 +24,13 @@
   -  大佐TV
   
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/412c4f95-d150-4b69-84aa-369bb11b7a2e)
+补充投稿：
 
+**厚德笃学崇实尚新勇攀学术新高峰**
+
+**精日作弊男盗女娼尽显物种多样性** 
+
+**横批：工大你好雄壮**
 
 ## [人大代表建议取消第一学历歧视，原因竟是其本科为合工大](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/pfs.md)
 ## [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)(三天内更完)
