@@ -670,4 +670,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 在虚假的幻象中，你的假象是否还在。
 
-# 散文《合肥与我的前半人生》 已投稿合肥日报
+# 
+
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/7e26affb-5bac-4cf2-815f-2bda250d0afa)
+
