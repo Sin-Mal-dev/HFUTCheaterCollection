@@ -50,6 +50,8 @@
 
   **唯一最爱你们的只有你们的父母**
 
+[录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
+
 （一）
 
 2024年3月1日正午
