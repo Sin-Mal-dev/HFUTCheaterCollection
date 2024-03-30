@@ -37,7 +37,7 @@
 **横批：工大你好雄壮**
 
 ## [人大代表建议取消第一学历歧视，原因竟是其本科为合工大](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/pfs.md)
-## [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)(三天内更完)
+## [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)  || [录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
 奉劝今年高考的考生家长千万不要让孩子志愿填报合工大,没关系没条件您的孩子再优秀也只是人矿及人肉电池
   - 年永琪
   - 夏娜
