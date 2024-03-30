@@ -36,7 +36,7 @@
 
 **横批：工大你好雄壮**
 
-## 细数薛姓辅导员五宗罪
+## 细数薛姓辅导员五宗罪(自杀事件及个人经历总结)
 
 [录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
 
