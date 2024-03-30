@@ -36,7 +36,10 @@
 
 **横批：工大你好雄壮**
 
-## [人大代表建议取消第一学历歧视，原因竟是其本科为合工大](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/pfs.md)
+## 细数薛姓辅导员五宗罪
+
+[录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
+
 ## [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)  || [录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
 奉劝今年高考的考生家长千万不要让孩子志愿填报合工大,没关系没条件您的孩子再优秀也只是人矿及人肉电池
   - 年永琪
@@ -221,6 +224,8 @@
 - 大学教育应当改造，文科不改造不得了。不改造能出哲学家吗？能出文学家吗？能出历史学家吗？现在的哲学家搞不了哲学，文学家写不了小说，历史学家搞不了历史，连培养出一个人格正常的辅导员都难如登天，谈何素质教育。
 - 当然，我们需要有耐心。我们不能期望一夜之间就能实现我们的目标。我们需要有耐心，坚持不懈，不断揭开某些人想要刻意隐瞒的事实。即使前途光明我看不见，道路曲折我走不完，那又如何？
 [![Star History Chart](https://api.star-history.com/svg?repos=HFUT-CHEATER/HFUTCheaterCollection&type=Timeline)](https://star-history.com/#HFUT-CHEATER/HFUTCheaterCollection&Timeline)
+
+## [人大代表建议取消第一学历歧视，原因竟是其本科为合工大](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/pfs.md)
 
 HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇人员名单——合肥工业大学作弊封神榜
 此作弊封神榜仅给出部分统计的案例，实际作弊(包庇及未被发现)的人数远超统计量。投稿作弊者及其行为可联系邮箱，不想公布自己所在专业请标注或直接使用匿名邮箱
