@@ -36,7 +36,7 @@
 
 **横批：工大你好雄壮**
 
-## 请justin kotin用邮件联系我
+## 任福继、谷雨与SA2C(请justin kotin用邮件联系我)
 
 ## 交叉研究院与留学生宿舍的建造相关问题
 
@@ -50,9 +50,6 @@
 
 电气21-2班刘炳旭2021217030
 电气21-4班辛菲2021216254
-
-## 任福继、谷雨与SA2C
-
 
 ## [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)  || [录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
 奉劝今年高考的考生家长千万不要让孩子志愿填报合工大,没关系没条件您的孩子再优秀也只是人矿及人肉电池
