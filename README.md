@@ -50,7 +50,7 @@
 
 ## 宣城校区电气学院多次包庇作弊、辅导员挪用经费
 
-## 谷雨与SA2C
+## 任福继、谷雨与SA2C
 
 
 ## [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)  || [录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
