@@ -39,6 +39,8 @@
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/0696e374-db0a-4d55-a5ea-233b04382728)
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/c3046b10-838d-46b9-8a23-4893a898688e)
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/12a149a8-040f-4da0-bc67-954217d88907)
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/1910307e-1455-470d-b449-606cb14a0a0b)
+
 
 
 ## 宣城校区电气学院多次包庇作弊、辅导员挪用经费
