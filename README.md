@@ -94,7 +94,14 @@
 
 ## 宣城校区电气学院多次包庇作弊、辅导员挪用经费
 
+黄东东：男，电气辅导员，人送外号黄二傻，主要技能：到学生宿舍尬聊，假装关心学生，沽名钓誉。
+
+光荣事迹：侵占学生大创与三下乡经费，懒政怠慢
+
+杨梅：女，电气辅导员，一言难尽。包庇刘辛二人的主谋，大力庇护，阻碍学校调查，教唆二人串供。
+
 电气21-2班刘炳旭2021217030
+
 电气21-4班辛菲2021216254
 
 ## [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)  || [录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
