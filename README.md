@@ -36,6 +36,11 @@
 
 **横批：工大你好雄壮**
 
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/0696e374-db0a-4d55-a5ea-233b04382728)
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/c3046b10-838d-46b9-8a23-4893a898688e)
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/12a149a8-040f-4da0-bc67-954217d88907)
+
+
 ## 宣城校区电气学院多次包庇作弊、辅导员挪用经费
 
 黄东东：男，电气辅导员，人送外号黄二傻，主要技能：到学生宿舍尬聊，假装关心学生，沽名钓誉。
