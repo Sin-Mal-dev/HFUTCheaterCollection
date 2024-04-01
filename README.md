@@ -44,6 +44,9 @@
 
 ## 评论：导助和网格员到底算什么玩意
 
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/6f236598-76b2-4605-aa61-62e3a0426545)
+
+
 ## 细数薛猿七宗罪(自杀事件及个人经历总结)
  
 - [录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
