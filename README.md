@@ -11,6 +11,10 @@
 
   3.掩盖TV:计算机与信息学院掩盖自杀事件[新闻传播学] [附录音](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
 
+
+https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-b0df-4476-a6a8-4d719c0934f0
+
+
   4.红楼TV:翠A博导与女博士生们[领导的艺术]
 
   5.买卖TV:为拿基金互换女学生[小妾赠送工程]
