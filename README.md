@@ -41,9 +41,11 @@
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/12a149a8-040f-4da0-bc67-954217d88907)
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/1910307e-1455-470d-b449-606cb14a0a0b)
 
-## 志愿时长不过是每个学院志愿社团的玩具
+## 献血套路——第二课堂第二篇
 
-## 三下乡已经沦为公款旅游报销的手段
+## 志愿时长不过是每个学院志愿社团的玩具——第二课堂系列第一篇
+
+## 三下乡已经沦为公款旅游报销的手段(4/3日）
 
 一边是走新疆、下基层农村、贫困地区支教
 
