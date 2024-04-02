@@ -163,7 +163,8 @@
 
   解释一下你和徐子航、LMR什么关系——“有毒”、“这个人”
 
-![xy](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/b05e88ad-ec9e-4688-bad5-de9d3bf2e961)
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/87b2a35d-bc40-48a5-b340-9323ca337dc6)
+
 
 
 ## [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)  || [录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
