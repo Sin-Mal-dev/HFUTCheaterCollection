@@ -47,6 +47,8 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
 
 ## 冯睿系列
 
+定性：一个被揭发后心虚到处找人安慰的弱智
+
 ## 谈特殊奇葩保研方式——挑战杯红旅赛道
 
 ## 以献血套路为例——第二课堂第二篇
