@@ -45,6 +45,8 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/12a149a8-040f-4da0-bc67-954217d88907)
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/1910307e-1455-470d-b449-606cb14a0a0b)
 
+## 冯睿系列
+
 ## 谈特殊奇葩保研方式——挑战杯红旅赛道
 
 ## 以献血套路为例——第二课堂第二篇
