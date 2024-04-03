@@ -96,7 +96,7 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
 
 ## 谈特殊奇葩保研方式——国际组织实习
 
--联合国远程实习
+- 联合国远程实习
 
 - “国际胜任力”
 
