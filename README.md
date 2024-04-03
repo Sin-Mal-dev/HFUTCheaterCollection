@@ -47,7 +47,7 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
 
 ## 冯睿系列
 
-定性：一个被揭发后心虚到处找人安慰的Martin- Bell综合征
+定性：一个被揭发后心虚到处找人安慰的Martin- Bell综合征，你男朋友知道你到处找人安慰不？
 
 - 自我认同危机（Identity Crisis）
 
