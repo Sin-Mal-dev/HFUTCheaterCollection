@@ -1,6 +1,8 @@
 ## 既不厚德，也不笃学。既不崇实，也不尚新  [录音](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3) [English.Ver](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main/EnglishVer)
 定性：这所学校是既是安徽本地关系户的学校、也是北京✌、上海✌、武汉三代电气✌来秀存在的学校，唯独不是你一个普通外省人的学校，管理科学与工程A?作弊科学与工程SSS
 
+[我不好说](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/7ed46893-53e8-428e-aa4b-3ad5d1e30d13)
+
 友情链接：即将发布 HFUTHIVCollection(合肥工业大学艾滋病患者封神榜)
 
 更新预告：
@@ -32,7 +34,10 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
   10.驱魔TV:上榜人员户籍公安大头照一览[百鬼夜行图]
   
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/412c4f95-d150-4b69-84aa-369bb11b7a2e)
+
+
 补充投稿：
+
 
 **厚德笃学崇实尚新勇攀学术新高峰**
 
