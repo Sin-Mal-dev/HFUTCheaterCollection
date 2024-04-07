@@ -52,7 +52,7 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
 
 ## 黎倩、丁元博、夏怀琪考场作弊现场照片、视频
 
-## 神偷卜一
+## 补充：[神偷卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(14).md)
 
 - 合肥工业大学2021级电科专业卜一，屡次偷我东西，以前我的充电宝沐浴露什么的丢了先不说，没实质性证据。但是这次你偷我考研资料，不好意思，让我抓到了。
 
