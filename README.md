@@ -5,23 +5,37 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/38d28ddc-
 
 
 [Beat:HFUTCHEATER]
+
 [Lyric:HFUTCHEATER]
+
 在考场的角落里，有人偷偷看手机
+
 心虚地摸摸口袋，作弊纸张藏得满
+
 以为这样就能过关，飘飘然如神仙
+
 其实你的那份卷子，早已经是零分
+
 (Chorus)
+
 作弊作弊，你的行为多么卑鄙
+
 作弊作弊，愧对那双期待的眼睛
+
 (Verse 2)
+
 脑袋里充满了疑惑，为何答案总不对
-别再幻想取得成功，靠作弊成为胜者
 
 别再幻想取得成功，靠作弊成为胜者
+
 真正的胜者，再也不在合肥工业大学
+
 (Bridge)
+
 不管你多么巧妙，总有一天会被抓
+
 那时候你会怎样，面对眼前的耻笑
+
 别再哀求，该受的惩罚，终究会来到
 
 ## 既不厚德，也不笃学。既不崇实，也不尚新  [录音](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3) [English.Ver](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main/EnglishVer) [作弊名单](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main?tab=readme-ov-file#%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF)
