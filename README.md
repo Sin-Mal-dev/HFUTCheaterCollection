@@ -101,6 +101,8 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
 
 张帆
 
+- 开会敲打作弊的不要举报，有点幽默了
+
 邢松 
 
 - 不知道情况搁那造什么谣，喜欢清明前开会是吧
