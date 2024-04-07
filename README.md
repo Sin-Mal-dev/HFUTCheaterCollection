@@ -52,7 +52,7 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
 
 ## 黎倩、丁元博、夏怀琪考场作弊现场照片、视频
 
-## 行政硕士学位论文合订本
+## 行政硕士学位论文合订本（建议好好想想自己开会说了什么话）
 
 张帆
 
