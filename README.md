@@ -105,7 +105,7 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
 
 邢松 
 
-- 不知道情况搁那造什么谣，喜欢清明前开会是吧
+- 不知道情况搁那造什么谣，喜欢清明前开会是吧,你不说还行，一说你管的人跑红星路去了
 
 朱文拿
 
