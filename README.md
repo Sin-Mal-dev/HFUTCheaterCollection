@@ -103,6 +103,8 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
 
 邢松 
 
+- 不知道情况搁那造什么谣，喜欢清明前开会是吧
+
 朱文拿
 
 左能
