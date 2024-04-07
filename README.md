@@ -1,14 +1,91 @@
 ## HFUTCheater's Theme Song 主题曲
 
+PART I 墓志铭
+
+https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/c9e9abcd-d9b9-4e7a-8eb9-df9344ddc1e6
+
+PART II 作弊家
 
 https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/38d28ddc-266c-4581-9b9a-927862a95cf1
-
 
 - 副歌：点兵点将
 
 https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/c86f9871-cfa3-48f3-b948-be0b6b6cbba1
 
+PART I
 
+[Beat:HFUTCHEATER]
+
+[Lyric:HFUTCHEATER]
+
+Verse 1
+
+接受我最真实的模样
+
+其他的所有都无关紧要
+
+从伫立之处伸出手探寻
+
+你期望找到的究竟是什么？
+
+Pre-Chorus
+
+当我描绘，刻画，重塑自己的讯息之时
+
+是传达给你我一定能做到的决意
+
+可你似乎想将一切否认，逆转，破坏殆尽
+
+Chorus
+
+如果我们能扭转世界的方向
+
+能像他们一样，挺过每一段痛苦的日夜
+
+设想永远一如既往，依旧如故
+
+也许会错过，凋零腐烂，而我曾从未知晓你们的阴谋
+
+Verse 2
+
+这一切，都是取决于你和你们
+
+至少现在，我们还没有放弃
+
+至少现在，我们还没有放弃
+
+至少现在，我们还没有放弃
+
+Bridge
+
+有些时候，似乎预示着
+
+你们终将被残酷的机器完全吞噬
+
+但也正是你，让我彻底质疑
+
+我曾经生活过的任何意义
+
+Chorus
+如果我们能扭转世界的方向
+
+能像他们一样，挺过每一段痛苦的日夜
+
+也许会错过，凋零腐烂，而我从未知晓
+
+这一切，都是取决于你和你们
+
+Outro
+
+至少此时此刻，我们绝不会放手
+
+不死不休
+
+不死不休
+
+不死不休
+
+PART II
 [Beat:HFUTCHEATER]
 
 [Lyric:HFUTCHEATER]
