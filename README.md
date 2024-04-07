@@ -50,6 +50,8 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/12a149a8-040f-4da0-bc67-954217d88907)
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/1910307e-1455-470d-b449-606cb14a0a0b)
 
+## 神偷卜一
+
 ## 冯睿系列
 
 定性：一个被揭发后心虚到处找人安慰的Martin- Bell综合征，你男朋友知道你到处找人安慰不？
