@@ -101,7 +101,7 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
 
 张帆
 
-- 开会敲打作弊的不要举报，有点幽默了
+- 开会敲打作弊的不要举报，有点幽默了，你以为土木没人上榜的原因是什么？保就保了呗，感觉不如转行的
 
 邢松 
 
