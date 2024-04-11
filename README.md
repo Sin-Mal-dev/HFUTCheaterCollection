@@ -1,165 +1,8 @@
-## HFUTCheater's Theme Song 主题曲
-
-PART I 墓志铭
-
-https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/c9e9abcd-d9b9-4e7a-8eb9-df9344ddc1e6
-
-PART II 作弊家
-
-https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/38d28ddc-266c-4581-9b9a-927862a95cf1
-
-- 副歌：点兵点将
-
-https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/c86f9871-cfa3-48f3-b948-be0b6b6cbba1
-
-PART I
-
-[Beat:HFUTCHEATER]
-
-[Lyric:HFUTCHEATER]
-
-Verse 1
-
-接受我最真实的模样
-
-其他的所有都无关紧要
-
-从伫立之处伸出手探寻
-
-你期望找到的究竟是什么？
-
-Pre-Chorus
-
-当我描绘，刻画，重塑自己的讯息之时
-
-是传达给你我一定能做到的决意
-
-可你似乎想将一切否认，逆转，破坏殆尽
-
-Chorus
-
-如果我们能扭转世界的方向
-
-能像他们一样，挺过每一段痛苦的日夜
-
-设想永远一如既往，依旧如故
-
-也许会错过，凋零腐烂，而我曾从未知晓你们的阴谋
-
-Verse 2
-
-这一切，都是取决于你和你们
-
-至少现在，我们还没有放弃
-
-至少现在，我们还没有放弃
-
-至少现在，我们还没有放弃
-
-Bridge
-
-有些时候，似乎预示着
-
-你们终将被残酷的机器完全吞噬
-
-但也正是你，让我彻底质疑
-
-我曾经生活过的任何意义
-
-Chorus
-如果我们能扭转世界的方向
-
-能像他们一样，挺过每一段痛苦的日夜
-
-也许会错过，凋零腐烂，而我从未知晓
-
-这一切，都是取决于你和你们
-
-Outro
-
-至少此时此刻，我们绝不会放手
-
-不死不休
-
-不死不休
-
-不死不休
-
-PART II
-[Beat:HFUTCHEATER]
-
-[Lyric:HFUTCHEATER]
-
-在考场的角落里，有人偷偷看手机
-
-心虚地摸摸口袋，作弊纸张藏得满
-
-以为这样就能过关，飘飘然如神仙
-
-其实你的那份卷子，早已经是零分
-
-(Chorus)
-
-作弊作弊，你的行为多么卑鄙
-
-作弊作弊，愧对那双期待的眼睛
-
-(Verse 2)
-
-脑袋里充满了疑惑，为何答案总不对
-
-别再幻想取得成功，靠作弊成为胜者
-
-真正的胜者，再也不在合肥工业大学
-
-(Bridge)
-
-不管你多么巧妙，总有一天会被抓
-
-那时候你会怎样，面对眼前的耻笑
-
-别再哀求，该受的惩罚，终究会来到
-
 ## 既不厚德，也不笃学。既不崇实，也不尚新  [录音](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3) [English.Ver](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main/EnglishVer) [作弊名单](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main?tab=readme-ov-file#%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF)
-定性：这所学校是既是安徽本地关系户的学校、也是北京✌、上海✌、武汉三代电气✌来秀存在的学校，唯独不是你一个普通外省人的学校，管理科学与工程A?作弊科学与工程SSS
 
 [我不好说](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/7ed46893-53e8-428e-aa4b-3ad5d1e30d13)
 
-友情链接：即将发布 HFUTHIVCollection(合肥工业大学艾滋病患者封神榜)
-
-更新预告：
-
-  1.作弊TV:宣城校区新赛季[山川异域，杂种同天]
-  
-  2.爱人TV:辅导员婚内与校领导出轨[上下级实践]
-
-  3.掩盖TV:计算机与信息学院掩盖自杀事件[新闻传播学] [附录音](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
-
-
-https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-b0df-4476-a6a8-4d719c0934f0
-
-
-  4.红楼TV:翠A博导与女博士生们[领导的艺术]
-
-  5.买卖TV:为拿基金互换女学生[小妾赠送工程]
-
-  6.献血TV:献血私用贩卖骗局与第二课堂背后[福利社会化]
-  
-  7.瓢虫TV:宣城公安局统计合工大宣城校区嫖娼行政拘留人数[人体软硬件实践]
-
-  8.621TV分V[黑社会校内实践]
-  - 陈贵琳TV[材料造假艺术教程]
-  -  大佐TV[跳脚工程]
-
-  9.老乡TV:上榜人员户籍全国地图一览，看看有你的家乡不
-
-  10.驱魔TV:上榜人员户籍公安大头照一览[百鬼夜行图]
-  
-![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/412c4f95-d150-4b69-84aa-369bb11b7a2e)
-
-
 补充投稿：
-
 
 **厚德笃学崇实尚新勇攀学术新高峰**
 
@@ -174,21 +17,7 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/4e104029-
 
 ## 黎倩、丁元博、夏怀琪考场作弊现场照片、视频
 
-## 行政硕士学位论文合订本（建议好好想想自己开会说了什么话）
-
-张帆
-
-- 开会敲打作弊的不要举报，有点幽默了，你以为土木没人上榜的原因是什么？保就保了呗，感觉不如转行的
-
-邢松 
-
-- 不知道情况搁那造什么谣，喜欢清明前开会是吧,你不说还行，一说你管的人跑红星路去了
-
-朱文拿
-
-左能
-
-薛猿
+## 揭秘保研宿舍
 
 ## 补充：[神偷卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(14).md)
 
@@ -1012,6 +841,129 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
   
 投稿作弊者及其行为可联系邮箱
 - hfutcheater@proton.me
+---
+## HFUTCheater's Theme Song 主题曲
+
+PART I 墓志铭
+
+https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/c9e9abcd-d9b9-4e7a-8eb9-df9344ddc1e6
+
+PART II 作弊家
+
+https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/38d28ddc-266c-4581-9b9a-927862a95cf1
+
+- 副歌：点兵点将
+
+https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/c86f9871-cfa3-48f3-b948-be0b6b6cbba1
+
+PART I
+
+[Beat:HFUTCHEATER]
+
+[Lyric:HFUTCHEATER]
+
+Verse 1
+
+接受我最真实的模样
+
+其他的所有都无关紧要
+
+从伫立之处伸出手探寻
+
+你期望找到的究竟是什么？
+
+Pre-Chorus
+
+当我描绘，刻画，重塑自己的讯息之时
+
+是传达给你我一定能做到的决意
+
+可你似乎想将一切否认，逆转，破坏殆尽
+
+Chorus
+
+如果我们能扭转世界的方向
+
+能像他们一样，挺过每一段痛苦的日夜
+
+设想永远一如既往，依旧如故
+
+也许会错过，凋零腐烂，而我曾从未知晓你们的阴谋
+
+Verse 2
+
+这一切，都是取决于你和你们
+
+至少现在，我们还没有放弃
+
+至少现在，我们还没有放弃
+
+至少现在，我们还没有放弃
+
+Bridge
+
+有些时候，似乎预示着
+
+你们终将被残酷的机器完全吞噬
+
+但也正是你，让我彻底质疑
+
+我曾经生活过的任何意义
+
+Chorus
+如果我们能扭转世界的方向
+
+能像他们一样，挺过每一段痛苦的日夜
+
+也许会错过，凋零腐烂，而我从未知晓
+
+这一切，都是取决于你和你们
+
+Outro
+
+至少此时此刻，我们绝不会放手
+
+不死不休
+
+不死不休
+
+不死不休
+
+PART II
+[Beat:HFUTCHEATER]
+
+[Lyric:HFUTCHEATER]
+
+在考场的角落里，有人偷偷看手机
+
+心虚地摸摸口袋，作弊纸张藏得满
+
+以为这样就能过关，飘飘然如神仙
+
+其实你的那份卷子，早已经是零分
+
+(Chorus)
+
+作弊作弊，你的行为多么卑鄙
+
+作弊作弊，愧对那双期待的眼睛
+
+(Verse 2)
+
+脑袋里充满了疑惑，为何答案总不对
+
+别再幻想取得成功，靠作弊成为胜者
+
+真正的胜者，再也不在合肥工业大学
+
+(Bridge)
+
+不管你多么巧妙，总有一天会被抓
+
+那时候你会怎样，面对眼前的耻笑
+
+别再哀求，该受的惩罚，终究会来到
+
 ---
 
 白色月光降于你身上
