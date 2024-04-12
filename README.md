@@ -2,6 +2,8 @@
 
 [我不好说](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/161664982/7ed46893-53e8-428e-aa4b-3ad5d1e30d13)
 
+友情链接 中文弱智训练数据集[COIG-CQIA](https://github.com/paralym/COIG-CQIA)
+
 补充投稿：
 
 **厚德笃学崇实尚新勇攀学术新高峰**
